@@ -11,7 +11,7 @@ else
 	WINDRES_ARCH=pe-i386
 endif
 NAME=virgo
-EXE=$(NAME).exe
+EXE=$(NAME)-like-win10.exe
 
 .PHONY: all clean
 all: $(EXE)
