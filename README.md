@@ -3,7 +3,7 @@ virgo-like-win10
 Virtual Desktop Manager for Windows
 Forked from [henkman/virgo](https://github.com/henkman/virgo)
 
-[Download](https://github.com/super6liu/virgo/releases/download/2.0.0/virgo-like-win10.zip)
+[Download](https://github.com/super6liu/virgo/releases/download/2.0.1/virgo-like-win10.zip)
 
 Features:
 - provide a Win10-style virtual workspace manager (tested on Win7 SP1)
@@ -12,8 +12,8 @@ Features:
 Hotkeys:
         CTRL + WIN + LEFT      -> switch to previous desktop
         CTRL + WIN + RIGHT     -> switch to next desktop
-        CTRL + D               -> create a new desktop (up to 4)
-        CTRL + F4              -> delete current desktop and move all open windows to privous desktop
+        CTRL + WIN + D               -> create a new desktop (up to 4)
+        CTRL + WIN + F4              -> delete current desktop and move all open windows to privous desktop
 
 To exit:
 - kill virgo-like-win10.exe in Task Manager, or log off

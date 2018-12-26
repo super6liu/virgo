@@ -235,8 +235,8 @@ static void virgo_update(Virgo *virgo)
 static void virgo_init(Virgo *virgo)
 {
     virgo->length = 2;
-	register_hotkey(0, MOD_CONTROL | MOD_NOREPEAT, 'D');
-	register_hotkey(1, MOD_CONTROL | MOD_NOREPEAT, VK_F4);
+	register_hotkey(0, MOD_CONTROL | MOD_WIN | MOD_NOREPEAT, 'D');
+	register_hotkey(1, MOD_CONTROL | MOD_WIN | MOD_NOREPEAT, VK_F4);
 	register_hotkey(2, MOD_CONTROL | MOD_WIN | MOD_NOREPEAT, VK_LEFT);
 	register_hotkey(3, MOD_CONTROL | MOD_WIN | MOD_NOREPEAT, VK_RIGHT);
 	trayicon_init(&virgo->trayicon);
