@@ -13,8 +13,8 @@ Hotkeys:
 
         CTRL + WIN + LEFT      -> switch to previous desktop  
         CTRL + WIN + RIGHT     -> switch to next desktop  
-        CTRL + WIN + D               -> create a new desktop (up to 4)  
-        CTRL + WIN + F4              -> delete current desktop and move all open windows to privous desktop
+        CTRL + WIN + D         -> create a new desktop (up to 4)  
+        CTRL + WIN + F4        -> delete current desktop and move all open windows to privous desktop
 
 To exit:
 - kill virgo-like-win10.exe in Task Manager, or log off
