@@ -1,6 +1,6 @@
 virgo-like-win10
 =====
-Virtual Desktop Manager for Windows
+Virtual Desktop Manager for Windows  
 Forked from [henkman/virgo](https://github.com/henkman/virgo)
 
 [Download](https://github.com/super6liu/virgo/releases/download/2.0.1/virgo-like-win10.zip)
@@ -18,7 +18,9 @@ Hotkeys:
 To exit:
 - kill virgo-like-win10.exe in Task Manager, or log off
 
-the nerds can build it with
+==================================================
+
+The nerds can build it with
 
         git clone https://github.com/super6liu/virgo.git
         cd virgo
